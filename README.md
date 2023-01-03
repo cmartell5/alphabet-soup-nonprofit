@@ -35,8 +35,8 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
  ## Summary
  The models I worked on, before and after optimization, were only able to achieve around 73% accuracy. Several models were tested, changing 
  the number of hidden layers, nodes, epochs and activation functions. Making changes to optimize the model only made slight changes in the 
- accuracy; however, I found that adding too many layers hindered the performance. I was not able to reach the target performance. Each model 
- tested would not get an   accuracy rate higher than about 73%. I found the first model I started with had the highest accuracy rate.In order 
+ accuracy; however, I found that adding too many layers hindered the performance. Unfortunatley, I was not able to reach the target performance. Each model 
+ tested would not get an   accuracy rate higher than about 73%. I found the first model I started with had the highest accuracy rate. In order 
  to solve this problem, I would need to continue to work on finding the optimal number of nodes and hiddenlayers, as well as the best 
  activation function for each hidden layer.
  
