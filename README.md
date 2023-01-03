@@ -28,7 +28,7 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
     * The second hidden layer with 5 nodes and the activation function relu
     * An ouput layer with the activiation function sigmoid
     * The final model shown reflects the following: 
-    *
+    
     ![image](https://user-images.githubusercontent.com/100399092/210292973-1229cdd2-1f84-45ad-bbf1-ac9a7e7858a5.png)
 
    
