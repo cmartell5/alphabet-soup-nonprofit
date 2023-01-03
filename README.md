@@ -14,18 +14,29 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
 
 * Compiling, Training, and Evaluating
   * Several models were tested, changing the number of hidden layers, nodes, epochs and activation functions.
-  * The final model includes:
+  
+  * The initial model includes:
     * The first hidden layer with 8 nodes and the activation function relu
     * The second hidden layer with 5 nodes and the activation function relu
-    * An ouput payer with the activiation function sigmoid
-   * I was not able to reach th target performance. Each model tested would not get an accuracy rate higher than the final model displayed
-     in this work. The model shown reflects the following: Loss: 0.5610789060592651, Accuracy: 0.7279300093650818
-     
+    * An ouput layer with the activiation function sigmoid
+    The initial model shown reflects the following: 
+     ![image](https://user-images.githubusercontent.com/100399092/210292529-08e41d62-8e1c-4720-8efd-709967ca75cb.png)
+  
+  * The final model includes:
+    * The first hidden layer with 7 nodes and the activation function relu
+    * The second hidden layer with 5 nodes and the activation function relu
+    * An ouput layer with the activiation function sigmoid
+    The final model shown reflects the following: 
+    ![image](https://user-images.githubusercontent.com/100399092/210292973-1229cdd2-1f84-45ad-bbf1-ac9a7e7858a5.png)
+
+   
  ## Summary
  The models I worked on, before and after optimization, were only able to achieve around 73% accuracy. Several models were tested, changing 
  the number of hidden layers, nodes, epochs and activation functions. Making changes to optimize the model only made slight changes in the 
- accuracy; however, I found that adding too many layers hindered the performance. In order to solve this problem, I would need to continue to
- work on finding the optimal number of nodes and hiddenlayers, as well as the best activation function for each hidden layer.
+ accuracy; however, I found that adding too many layers hindered the performance. I was not able to reach the target performance. Each model 
+ tested would not get an   accuracy rate higher than about 73%. I found the first model I started with had the highest accuracy rate.In order 
+ to solve this problem, I would need to continue to work on finding the optimal number of nodes and hiddenlayers, as well as the best 
+ activation function for each hidden layer.
  
  
  
