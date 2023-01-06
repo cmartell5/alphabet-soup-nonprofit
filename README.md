@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Alphabet Soup nonprofit
 A deep learning project using Python, Pandas, sklearn, TensorFlow, Google Colab
   
 ## Background
